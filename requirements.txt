@@ -1,0 +1,4 @@
+requests
+playwright
+kokoro-onnx
+soundfile

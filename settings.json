@@ -1,0 +1,16 @@
+{
+  "reels_per_day": 3,
+  "voice": "am_michael",
+  "gemini_model": "gemini-flash-latest",
+  "slots": ["Morning 7:30 AM", "Afternoon 1:30 PM", "Night 9:30 PM", "Extra 1", "Extra 2"],
+  "pillar_rotation": {
+    "Mon": ["Salah Levels", "Character Upgrades", "Bad Habit Breakers"],
+    "Tue": ["Quran Connection", "Sunnah Quests", "Salah Levels"],
+    "Wed": ["Salah Levels", "Bad Habit Breakers", "Character Upgrades"],
+    "Thu": ["Quran Connection", "Salah Levels", "Sunnah Quests"],
+    "Fri": ["Sunnah Quests", "Quran Connection", "Character Upgrades"],
+    "Sat": ["Salah Levels", "Bad Habit Breakers", "Quran Connection"],
+    "Sun": ["Character Upgrades", "Sunnah Quests", "Bad Habit Breakers"]
+  },
+  "ai_label": true
+}
